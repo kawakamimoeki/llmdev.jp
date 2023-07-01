@@ -12,13 +12,13 @@ LLMを利用した開発をしている開発者のための日本語コミュ�
 - https://github.com/hollobit/GenAI_LLM_timeline
 - https://huggingface.co/blog
 - https://txt.cohere.com/
+- https://github.com/Hannibal046/Awesome-LLM
 
 ### Tools
 - https://github.com/hwchase17/langchain
 - https://github.com/jerryjliu/llama_index
 - https://github.com/microsoft/guidance
 - https://github.com/trending
-- https://github.com/Hannibal046/Awesome-LLM
 
 ### Vector DBs
 - https://weaviate.io/blog
