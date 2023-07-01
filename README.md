@@ -23,6 +23,8 @@ LLMを利用した開発をしている開発者のための日本語コミュ�
 - https://docs.pinecone.io/docs/release-notes
 - https://github.com/qdrant/qdrant
 - https://github.com/pgvector/pgvector
+- https://github.com/milvus-io/milvus
+
 
 ### Communities
 - https://chatgpt.connpass.com/
