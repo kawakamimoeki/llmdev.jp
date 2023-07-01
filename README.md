@@ -8,6 +8,7 @@ LLMを利用した開発をしている開発者のための日本語コミュ�
 ### LLMs
 - https://openai.com/blog
 - https://learn.microsoft.com/ja-jp/azure/cognitive-services/openai/whats-new
+- https://bard.google.com/updates
 - https://github.com/hollobit/GenAI_LLM_timeline
 
 ### Tools
