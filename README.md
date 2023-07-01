@@ -1,5 +1,3 @@
-# LLMDEV.JP
-
 ![llmdev.jp](./image.png)
 
 LLMを利用した開発をしている開発者のための日本語コミュニティです。
