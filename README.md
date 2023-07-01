@@ -1,4 +1,4 @@
-![llmdev.jp](./image.png)
+![llmdev.jp](./logo.png)
 
 LLMを利用した開発をしている開発者のための日本語コミュニティです。
 
