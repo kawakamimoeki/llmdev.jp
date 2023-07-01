@@ -34,3 +34,6 @@ LLMを利用した開発をしている開発者のための日本語コミュ�
 ### News
 - https://www.bensbites.co/
 - https://techcrunch.com/category/artificial-intelligence/
+
+## Code of conduct
+コミュニティの行動規範については、[CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md) をご覧ください。
