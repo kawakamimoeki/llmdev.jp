@@ -11,7 +11,7 @@ LLMを利用した開発をしている開発者のための日本語コミュ�
 - https://bard.google.com/updates
 - https://github.com/hollobit/GenAI_LLM_timeline
 - https://huggingface.co/blog
-- https://txt.cohere.com/?utm_source=bensbites&utm_medium=newsletter&utm_campaign=bard-learns-to-code
+- https://txt.cohere.com/
 
 ### Tools
 - https://github.com/hwchase17/langchain
