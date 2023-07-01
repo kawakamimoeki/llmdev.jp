@@ -26,4 +26,7 @@ LLMを利用した開発をしている開発者のための日本語コミュ�
 
 ### Communities
 - https://chatgpt.connpass.com/
+
+### News
 - https://www.bensbites.co/
+- https://techcrunch.com/category/artificial-intelligence/
