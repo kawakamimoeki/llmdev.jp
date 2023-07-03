@@ -33,6 +33,19 @@ LLMを利用した開発をしている開発者のための日本語コミュ�
 ### Events
 - https://connpass.com/search/?q=LLM&start_from=2023%2F07%2F03&start_to=2024%2F01%2F03
 
+### Blogs
+- https://zenn.dev/topics/openai
+- https://zenn.dev/topics/chatgpt
+- https://zenn.dev/topics/llm
+- https://qiita.com/tags/openai
+- https://qiita.com/tags/chatgpt
+- https://qiita.com/tags/llmg
+- https://note.com/hashtag/ChatGPT
+- https://note.com/search?q=llm&context=note&mode=search
+- https://medium.com/tag/chatgpt
+- https://medium.com/tag/openai
+- https://medium.com/tag/llm
+
 ### News
 - https://www.bensbites.co/
 - https://techcrunch.com/category/artificial-intelligence/
