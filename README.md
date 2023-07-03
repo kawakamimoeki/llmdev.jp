@@ -27,13 +27,20 @@ LLMを利用した開発をしている開発者のための日本語コミュ�
 - https://github.com/pgvector/pgvector
 - https://github.com/milvus-io/milvus
 
-
 ### Communities
 - https://chatgpt.connpass.com/
+
+### Events
+- https://connpass.com/search/?q=LLM&start_from=2023%2F07%2F03&start_to=2024%2F01%2F03
 
 ### News
 - https://www.bensbites.co/
 - https://techcrunch.com/category/artificial-intelligence/
+
+### Related
+- https://aws.amazon.com/jp/blogs/news/
+- https://cloud.google.com/blog/?hl=en
+
 
 ## Code of conduct
 コミュニティの行動規範については、[CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md) をご覧ください。
