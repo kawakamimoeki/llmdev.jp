@@ -51,7 +51,7 @@ LLMサービスやツールの情報や、LLMアプリUXについての知見な
 - https://zenn.dev/topics/llm
 - https://qiita.com/tags/openai
 - https://qiita.com/tags/chatgpt
-- https://qiita.com/tags/llmg
+- https://qiita.com/tags/llm
 - https://note.com/hashtag/ChatGPT
 - https://note.com/search?q=llm&context=note&mode=search
 - https://medium.com/tag/chatgpt
