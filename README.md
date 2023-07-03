@@ -29,11 +29,18 @@ LLMを利用した開発をしている開発者のための日本語コミュ�
 
 ### Communities
 - https://chatgpt.connpass.com/
+- https://www.chatgpthackers.dev/
 
 ### Events
 - https://connpass.com/search/?q=LLM&start_from=2023%2F07%2F03&start_to=2024%2F01%2F03
 
-### Blogs
+### Notes
+- https://github.com/swyxio/ai-notes
+
+### Blogs/News
+- https://techcrunch.com/category/artificial-intelligence/
+- https://www.latent.space/
+- https://www.bensbites.co/
 - https://zenn.dev/topics/openai
 - https://zenn.dev/topics/chatgpt
 - https://zenn.dev/topics/llm
@@ -46,14 +53,9 @@ LLMを利用した開発をしている開発者のための日本語コミュ�
 - https://medium.com/tag/openai
 - https://medium.com/tag/llm
 
-### News
-- https://www.bensbites.co/
-- https://techcrunch.com/category/artificial-intelligence/
-
 ### Related
 - https://aws.amazon.com/jp/blogs/news/
 - https://cloud.google.com/blog/?hl=en
-
 
 ## Code of conduct
 コミュニティの行動規範については、[CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md) をご覧ください。
