@@ -1,6 +1,7 @@
 ![llmdev.jp](./logo.png)
 
 LLMを利用した開発をしている開発者のための日本語コミュニティです。
+LLMサービスやツールの情報や、LLMアプリUXについての知見などについて共有・議論しましょう。
 
 → [Discordサーバー](https://discord.gg/neVfeUgs)
 
