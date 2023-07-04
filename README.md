@@ -32,6 +32,9 @@ LLMサービスやツールの情報や、LLMアプリUXについての知見な
 - https://github.com/pgvector/pgvector
 - https://github.com/milvus-io/milvus
 
+## Guidelines
+- https://learn.microsoft.com/en-us/ai/guidelines-human-ai-interaction/
+
 ### Communities
 - https://chatgpt.connpass.com/
 - https://www.chatgpthackers.dev/
