@@ -36,6 +36,7 @@ LLMサービスやツールの情報や、LLMアプリUXについての知見な
 - https://learn.microsoft.com/en-us/ai/guidelines-human-ai-interaction/
 
 ### Communities
+- https://note.com/23letter/n/n09529f16bf02
 - https://chatgpt.connpass.com/
 - https://www.chatgpthackers.dev/
 
