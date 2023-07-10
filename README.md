@@ -80,7 +80,7 @@ LLMアプリのUXについて議論する場所です。
 - https://github.com/pgvector/pgvector
 - https://github.com/milvus-io/milvus
 
-## Guidelines
+### Guidelines
 - https://learn.microsoft.com/en-us/ai/guidelines-human-ai-interaction/
 
 ### Communities
