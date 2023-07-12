@@ -15,7 +15,7 @@ LLMサービスやツールの情報や、LLMアプリUXについての知見な
 4. 自分で動かしてみる
 
 ## Discord
-→ [Discordサーバー](https://discord.gg/neVfeUgs)
+→ [Discordサーバー](https://discord.gg/gS8CVZkJ9P)
 
 ### Channels
 #### ⁠ようこそ
